@@ -1,2 +1,5 @@
-# dio-desafiogithub-bootcamp-DB
-Repositório do desafio inicial de GitHub do bootcamp de Banco de Dados
+# Repositório Bootcamp Database Experience 
+
+> Repositório para os projetos, desafios e anotações do bootcamp Database Experience
+
+![Bootcamp Database Experience DIO](img/database-experience.png)
